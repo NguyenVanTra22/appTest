@@ -1,10 +1,10 @@
+////
+////  ViewController.swift
+////  AppDemo
+////
+////  Created by Developer 1 on 19/08/2024.
+////
 //
-//  ViewController.swift
-//  AppDemo
-//
-//  Created by Developer 1 on 19/08/2024.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -16,4 +16,3 @@ class ViewController: UIViewController {
 
 
 }
-
